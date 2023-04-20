@@ -22,8 +22,8 @@
     <primaryMonitor>Mouse</primaryMonitor>
   </placement>
   <theme>
-    <name>Nordic</name>
-    <titleLayout>LIMC</titleLayout>
+    <name>Adapta-Nokto</name>
+    <titleLayout>MLC</titleLayout>
     <keepBorder>no</keepBorder>
     <animateIconify>yes</animateIconify>
     <font place="ActiveWindow">
@@ -64,7 +64,7 @@
     </font>
   </theme>
   <desktops>
-    <number>5</number>
+    <number>4</number>
     <firstdesk>0</firstdesk>
     <names>
       <name>1</name>
