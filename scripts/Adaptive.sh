@@ -295,10 +295,10 @@ change_xfce_terminal 'Iosevka Custom 9'
 change_geany 'adapta' 'Iosevka Custom 10'
 
 # funct THEME ICON CURSOR FONT
-change_appearance 'Adapta-Nokto' 'Luv-Folders-Dark' 'Vimix' 'Noto Sans 9'
+change_appearance 'Nordic' 'Luv-Folders-Dark' 'Vimix' 'Noto Sans 9'
 
 # funct THEME LAYOUT FONT SIZE (Change margin in funct)
-obconfig 'Adapta-Nokto' 'MLC' 'JetBrains Mono' '9' 'menu-icons.xml' && openbox --reconfigure
+obconfig 'Nordic' 'NLIMC' 'JetBrains Mono' '9' 'menu-icons.xml' && openbox --reconfigure
 
 # funct GEOMETRY FONT BORDER (Change colors in funct)
 change_dunst '280' '80' '10x44' 'top-right' 'Iosevka Custom 9' '0'

@@ -22,8 +22,8 @@
     <primaryMonitor>Mouse</primaryMonitor>
   </placement>
   <theme>
-    <name>Adapta-Nokto</name>
-    <titleLayout>MLC</titleLayout>
+    <name>Nordic</name>
+    <titleLayout>NLIMC</titleLayout>
     <keepBorder>no</keepBorder>
     <animateIconify>yes</animateIconify>
     <font place="ActiveWindow">
