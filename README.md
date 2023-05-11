@@ -1,7 +1,7 @@
 
 # Polybar sytle
 
-I use arch linux, or a distro of archcraft linux. And I change the appearance of the adaptive theme according to my needs, so I am very happy to see it every time.
+I use arch linux, or a distro of archcraft linux version archcraft-2022.09.16-x86_64 And I change the appearance of the adaptive theme according to my needs, so I am very happy to see it every time.
 
 
 ## Screenshots
